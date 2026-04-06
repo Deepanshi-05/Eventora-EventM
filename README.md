@@ -1,10 +1,22 @@
 # Eventora - Full-Stack Event Booking Platform
 
+🌐 **Live Demo:** https://eventora-eventm-3.onrender.com/
+
+---
+
 Eventora is a full-stack MERN application designed to provide a secure, seamless event booking experience. Users can browse, register, and pay for events natively. Administrators have full control over event management, booking verification, and analytics dashboards.  
 
 This project demonstrates backend skills in **API design, data modeling, business logic, and role-based access control**, making it highly aligned with backend-focused assignments such as the **Finance Data Processing & Access Control** project.
 
 ---
+
+## 🌐 Deployment
+
+👉 https://eventora-eventm-3.onrender.com/
+
+- Hosted on Render
+- Backend APIs integrated with the frontend
+- Real-time booking and admin dashboard
 
 ## Table of Contents
 
